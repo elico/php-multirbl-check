@@ -1,0 +1,69 @@
+mail.ixlab.de,1
+bl.spamcop.net,1
+cbl.abuseat.org,1
+b.barracudacentral.org,1,Notice that if refused try to regiseter and whitelist the DNS
+dnsbl.sorbs.net,1
+http.dnsbl.sorbs.net,1
+dul.dnsbl.sorbs.net,1
+misc.dnsbl.sorbs.net,1
+smtp.dnsbl.sorbs.net,1
+socks.dnsbl.sorbs.net,1
+spam.dnsbl.sorbs.net,1
+web.dnsbl.sorbs.net,1
+zombie.dnsbl.sorbs.net,1
+dnsbl-1.uceprotect.net,1
+dnsbl-2.uceprotect.net,1
+dnsbl-3.uceprotect.net,1
+pbl.spamhaus.org,1
+sbl.spamhaus.org,1
+xbl.spamhaus.org,1
+zen.spamhaus.org,1
+bl.spamcannibal.org,1
+psbl.surriel.com,1
+ubl.unsubscore.com,1
+dnsbl.njabl.org,-1
+combined.njabl.org,-1
+rbl.spamlab.com,1
+dnsbl.ahbl.org,-1,Got down by the owner
+ircbl.ahbl.org,-1,Got down by the owner
+dyna.spamrats.com,1
+noptr.spamrats.com,1
+spam.spamrats.com,1
+cbl.anti-spam.org.cn,1
+cdl.anti-spam.org.cn,1
+dnsbl.inps.de,1
+drone.abuse.ch,1
+httpbl.abuse.ch,1
+dul.ru,1
+korea.services.net,1
+short.rbl.jp,1
+virus.rbl.jp,1
+spamrbl.imp.ch,1
+wormrbl.imp.ch,1
+virbl.bit.nl,1
+rbl.suresupport.com,1
+dsn.rfc-ignorant.org,1
+ips.backscatterer.org,1
+spamguard.leadmon.net,1
+opm.tornevall.org,1
+netblock.pedantic.org,1
+multi.surbl.org,1
+ix.dnsbl.manitu.net,1
+tor.dan.me.uk,1
+rbl.efnetrbl.org,1
+relays.mail-abuse.org,-1,Belongs to trend micro
+blackholes.mail-abuse.org,-1,Belongs to trend micro
+rbl-plus.mail-abuse.org,-1,Belongs to trend micro
+dnsbl.dronebl.org,1
+access.redhawk.org,-1,Down for a very long time
+db.wpbl.info,1
+rbl.interserver.net,1
+query.senderbase.org,1
+bogons.cymru.com,1
+csi.cloudmark.com,1
+spam.abuse.ch,1,,added by kloth
+virbl.dnsbl.bit.nl,1,,added by kloth
+dnsbl-1.uceprotect.net,1,,added by kloth
+dnsbl-2.uceprotect.net,1,,added by kloth
+dnsbl-3.uceprotect.net,1,,added by kloth
+list.dnswl.org,1,,added by kloth
